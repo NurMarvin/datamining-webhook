@@ -1,0 +1,10 @@
+name = "datamining"
+main = "src/index.ts"
+compatibility_date = "2022-06-01"
+kv_namespaces = [
+  { binding = "GITHUB_COMMITS", id = "f1786a9f06ec4f819a3846c4f9bbc459", preview_id = "6752caa2f6344ebab640f6334fd1da42" }
+]
+
+[vars]
+DISCORD_GUILD_ID="603970300668805120"
+DISCORD_CHANNEL_ID="1019642316144779325"
